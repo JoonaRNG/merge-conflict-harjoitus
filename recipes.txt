@@ -1,2 +1,6 @@
 Reseptit:
+<<<<<<< HEAD
 Mokkapalat
+=======
+Pannukakku
+>>>>>>> experimental
