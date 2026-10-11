@@ -3,3 +3,4 @@ Mokkapalat
 Pannukakku
 Omenapiirakka
 Mustikkapiirakka
+Kanelipulla
