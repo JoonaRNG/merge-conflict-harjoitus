@@ -1,4 +1,3 @@
 Reseptit:
 Mokkapalat
 Pannukakku
-BUG
